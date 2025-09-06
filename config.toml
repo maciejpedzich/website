@@ -1,0 +1,32 @@
+base_url = "https://maciejpedzich-preview.onrender.com"
+title = "Maciej Pędzich"
+theme = "tabi"
+default_language = "en"
+taxonomies = [{ name = "tags", feed = true }]
+build_search_index = true
+generate_feeds = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+bottom_footnotes = true
+
+[extra]
+skin = "red"
+browser_theme_color = "#a41312"
+favicon_emoji = "💻"
+show_author = false
+toc = true
+quick_navigation_buttons = true
+menu = [
+  { name = "Blog", url = "blog" },
+  { name = "Tags", url = "tags" },
+  { name = "Archive", url = "archive" },
+]
+socials = [
+  { name = "Email", url = "mailto:contact@maciejpedzi.ch", icon = "email" },
+  { name = "Gitea", url = "https://code.maciejpedzi.ch", icon = "gitea" },
+  { name = "GitHub", url = "https://github.com/maciejpedzich", icon = "github" },
+  { name = "LinkedIn", url = "https://www.linkedin.com/in/maciejpedzich", icon = "linkedin" },
+]
+copyright = "© $CURRENT_YEAR Maciej Pędzich $SEPARATOR Content on this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license."
