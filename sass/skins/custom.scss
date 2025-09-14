@@ -2,7 +2,7 @@
 @mixin theme-variables($theme) {
   @if $theme =='light' {
     // Light theme colours.
-    --primary-color: #cd3731;
+    --primary-color: #a91314;
   }
 
   @else if $theme =='dark' {

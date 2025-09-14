@@ -15,10 +15,11 @@ highlight_theme = "css"
 
 [extra]
 skin = "custom"
-browser_theme_color = "#cd3731"
+browser_theme_color = "#c63839"
 favicon = "images/favicon.png"
 social_media_card = "/images/banner.png"
 show_author = false
+feed_icon = false
 toc = true
 quick_navigation_buttons = true
 stylesheets = ["css/custom.css"]
@@ -28,6 +29,7 @@ menu = [
   { name = "Archive", url = "archive" },
 ]
 socials = [
+  { name = "Atom feed", url = "/atom.xml", icon = "rss" },
   { name = "Email", url = "mailto:contact@maciejpedzi.ch", icon = "email" },
   { name = "Gitea", url = "https://code.maciejpedzi.ch", icon = "gitea" },
   { name = "GitHub", url = "https://github.com/maciejpedzich", icon = "github" },
