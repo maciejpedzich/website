@@ -1,6 +1,6 @@
 +++
 title = "Hello (again), World!"
-date = 2025-09-03
+date = 2025-09-15
 description = "A few words on my 2025 so far, plus my plans for its remainder and beyond."
 
 [taxonomies]
@@ -145,7 +145,7 @@ That's how I came up with a little spreadsheet, where I'd rate each day on an in
 
 By the way, if you're a stats nerd, then you might enjoy the aforementioned histogram:
 
-{{ dual_theme_image(light_src="images/ratings-histogram.svg", dark_src="images/ratings-histogram-dark.svg" alt="Histogram of ratings' frequencies throughout the majority of July 2025. The respective frequencies for each rating are: 4, 5, 9, 5, 4. This makes the chart appear symmetric along an invisible vertical line that splits the 3 ratings' bar in half.") }}
+{{ dual_theme_image(light_src="images/hello-again-world/ratings-histogram.svg", dark_src="images/hello-again-world/ratings-histogram-dark.svg" alt="Histogram of ratings' frequencies throughout the majority of July 2025. The respective frequencies for each rating are: 4, 5, 9, 5, 4. This makes the chart appear symmetric along an invisible vertical line that splits the 3 ratings' bar in half.") }}
 
 It closely resembles a normal distribution with an expected value of 3 and a standard deviation of approximately 1.25. When I started my experiment, I was actually expecting to see that distinct shape appear at some point, but not in the very first month.
 
@@ -191,13 +191,15 @@ Therefore we agreed to have me switch from studying onsite to online in a bid to
 
 ### September so far
 
-My request to switch modes got accepted and I'm waiting for my new contract to come through. I'm also in the middle of rebuilding this website, with the release of this post serving as a _soft launch_ of sorts, as I'm looking to add more sections and do an internal restructuring of the homelab itself later this month.
+My request to switch modes got accepted, although it's effective from the semester following the upconming one, which I find rather disappointing. I'm also in the middle of rebuilding this website, with the release of this post serving as a _soft launch_ of sorts.
+
+I've also decided to dust off [my Bluesky account](https://bsky.app/profile/maciejpedzi.ch), do an internal restructuring of my homelab (architectural breakdown coming up soon), and last but not least - start therapy to work on myself, plus handle any future autistic burnout more gracefully instead of spiralling into depression.
 
 ## Q4 2025 and beyond - expressing myself more
 
-Now that I'm in charge of my studying schedule, I hope to allocate more time towards working on my personal projects and this blog. The former will see a mix of me experimenting more with Python and the datavis side of things, as well as revisiting some of my already released apps that I believe deserve more love.
+I hope to allocate more time towards working on my personal projects and this blog. The former will see a mix of me experimenting more with Python and the dataviz side of things, as well as revisiting some of my already released apps that I believe deserve more love.
 
-The latter will see an introduction of two regular series: weekly bite-sized posts about interesting F1 trivia, and a monthly report on my mood ratings with more visualisations and highlights from the real world. There will also be technical breakdowns of some of the aforementioned projects.
+The latter will see an introduction of a monthly report on my mood ratings with more visualisations and highlights from the real world. There will also be technical breakdowns of some of the aforementioned projects.
 
 ## Final thoughts
 
