@@ -191,9 +191,7 @@ Therefore we agreed to have me switch from studying onsite to online in a bid to
 
 ### September so far
 
-My request to switch modes got accepted, although it's effective from the semester following the upconming one, which I find rather disappointing. I'm also in the middle of rebuilding this website, with the release of this post serving as a _soft launch_ of sorts.
-
-I've also decided to dust off [my Bluesky account](https://bsky.app/profile/maciejpedzi.ch), do an internal restructuring of my homelab (architectural breakdown coming up soon), and last but not least - start therapy to work on myself, plus handle any future autistic burnout more gracefully instead of spiralling into depression.
+My request to switch modes got accepted by the dean, so I'm really looking forward to starting this new chapter. I've also decided to dust off [my Bluesky account](https://bsky.app/profile/maciejpedzi.ch), do an internal restructuring of my homelab (dedicated blog post coming soon), and last but not least - start attending individual therapy sessions.
 
 ## Q4 2025 and beyond - expressing myself more
 
