@@ -43,6 +43,11 @@ footer_menu = [
   { url = "/sitemap.xml", name = "Sitemap", trailing_slash = false },
 ]
 copyright = "© $CURRENT_YEAR Maciej Pędzich $SEPARATOR Content on this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license."
+remote_repository_url = "https://code.maciejpedzi.ch/maciejpedzich/website"
+remote_repository_git_platform = "gitea"
+remote_repository_branch = "master"
+show_remote_changes = true
+show_remote_source = true
 
 [extra.analytics]
 service = "umami"
