@@ -1,7 +1,7 @@
 +++
 title = "Hello (again), World!"
-date = 2025-09-15
-description = "A few words on my 2025 so far, plus my plans for its remainder and beyond."
+date = 2025-09-26
+description = "(TW: depression, death, suicide) A few words on my 2025 so far, plus my plans for its remainder and beyond."
 
 [taxonomies]
 tags = ["Personal"]
@@ -65,7 +65,7 @@ And sure enough, they brought up a similar argument during one of our calls, say
 
 A few days later, my oldest sister called me again. She'd spoken with my parents about my long streak of consistently bad mood and they all decided to schedule a session with a psychiatrist for me on the 14th of May. This visit served as a general interview to profile me and identify potential causes of my horrible condition. So, what was her recommendation?
 
-Getting an autism diagnosis.
+Getting an **autism diagnosis**.
 
 I'd actually been suspecting ASD for about 3 years, but constantly shrugged it off as me simply being weird/introverted, despite my neurodivergent friends stating I couldn't have been a more obvious case. Even though this wasn't a proper _confirmation_ (but rather a _green light_ to seek one), I could already feel a bit of relief. I wasn't completely insane after all.
 
@@ -189,7 +189,7 @@ Since I was (at long last) in the right place mentally, I could finally have a s
 
 Therefore we agreed to have me switch from studying onsite to online in a bid to decrease the sensory load I'd have to cope with on a daily basis and provide me with more freedom to pursue passion projects. I'd also get to stay in my flat in Warsaw, because I'd grown quite attached to that city over my 2 years living there.
 
-### September so far
+### September
 
 My request to switch modes got accepted by the dean, so I'm really looking forward to starting this new chapter. I've also decided to dust off [my Bluesky account](https://bsky.app/profile/maciejpedzi.ch), do an internal restructuring of my homelab (dedicated blog post coming soon), and last but not least - start attending individual therapy sessions.
 
@@ -197,10 +197,14 @@ My request to switch modes got accepted by the dean, so I'm really looking forwa
 
 I hope to allocate more time towards working on my personal projects and this blog. The former will see a mix of me experimenting more with Python and the dataviz side of things, as well as revisiting some of my already released apps that I believe deserve more love.
 
-The latter will see an introduction of a monthly report on my mood ratings with more visualisations and highlights from the real world. There will also be technical breakdowns of some of the aforementioned projects.
+The latter will see an introduction of a monthly series that's going to run at least until January 2026: mood report with both a statistical and IRL summary of the last 4 weeks. I'll also include a technical writeup on the mood spreadsheet itself, because it got me to write some rather interesting formulas as a fun little challenge.
 
 ## Final thoughts
 
-A big, big thank you goes out to my friends for their support in my darkest hours and **you** for reading this whole post. Looking forward to seeing you in the next one.
+A big, big thank you goes out to my friends for their support in my darkest hours and **you** for reading this whole post. Just to reassure you:
 
-Take care!
+{{ admonition(type="tip", icon="danger" title="GOOD NEWS", text="The suicide mission has been aborted.") }}
+
+I'm really looking forward to starting this new chapter of my life, and I invite you to ride with me through all the exciting projects I've got in store.
+
+Take care, and I hope to see you in the next post!
