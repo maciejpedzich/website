@@ -11,7 +11,7 @@ tags = ["Personal"]
 
 I've done it!
 
-Here's my first post of 2025 - better late than never, I guess. Although the first quarter was actually quite decent, the second quarter was anything but. Yet as we're heading into the final month of the thrid quarter, I'm somewhat grateful for Q2 turning out the way it did. Q2 kicked off a series of events that ultimately helped me understand myself better and improve my mood in the long run.
+Here's my first post of 2025 - better late than never, I guess. Although the first quarter was actually quite decent, the second quarter was anything but. Yet as we're approaching Q4, I'm somewhat grateful for Q2 turning out the way it did. Q2 kicked off a series of events that ultimately helped me understand myself better and improve my mood in the long run.
 
 But let's rewind to January.
 
