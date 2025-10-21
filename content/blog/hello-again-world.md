@@ -33,7 +33,7 @@ The answer is... _drumroll_
 
 ### April
 
-Mood swings and consistent lack of motivation to do anything productive apart from uni assignments. Seemingly overnight, I would frequently find myself just collapsing on my bed shortly after coming back home, often accompanied by strong headaches. I wasn't struggling academically, the workload wasn't overhwelming, but I just felt so fucking done with all that bullshit.
+Mood swings and consistent lack of motivation to do anything productive apart from uni assignments. Seemingly overnight, I would frequently find myself just collapsing on my bed shortly after coming back home, often accompanied by strong headaches. I wasn't struggling academically, the workload wasn't overwhelming, but I just felt so fucking done with all that bullshit.
 
 {{ admonition(type="note", text="While I generally refrain from cursing in blog posts, the last sentence seems fitting as an illustration of my overall mood at that point in time.") }}
 
@@ -75,11 +75,11 @@ The swing continues to move up and down, but increasingly more violently.
 
 #### Test, test, test
 
-Another recommendation from the doctor was doing a blood test, because my diet had been _very_ restrictive since... well, my very early childhood. To this day, it consists exclusively of processed food, because I can't stand the appearance and smell of pretty much all the _normal_ dishes out there. Despite that, I'm actually a little underweight, because my apetite is quite low most of the time.
+Another recommendation from the doctor was doing a blood test, because my diet had been _very_ restrictive since... well, my very early childhood. To this day, it consists exclusively of processed food, because I can't stand the appearance and smell of pretty much all the _normal_ dishes out there. Despite that, I'm actually a little underweight, because my appetite is quite low most of the time.
 
 But anyway, the results indicated plenty of vitamin deficiencies. Shocking, I know.
 
-I also took some autism screening tests to further validate my suspicions and potentially bring up the results to the doctor doing my proper diagnosis. Here's a list of the assesments I completed, along with my scores. By the way, shout-out to [Embrace Autism](https://embrace-autism.com) for the amazing breakdowns of these tests and automated scoring tools.
+I also took some autism screening tests to further validate my suspicions and potentially bring up the results to the doctor doing my proper diagnosis. Here's a list of the assessments I completed, along with my scores. By the way, shout-out to [Embrace Autism](https://embrace-autism.com) for the amazing breakdowns of these tests and automated scoring tools.
 
 - [**Autism Spectrum Quotient (AQ)**](https://embrace-autism.com/autism-spectrum-quotient)
   - Score: 45
@@ -102,7 +102,7 @@ Every single score indicated a great likelihood of me being on the spectrum, whi
 
 #### A new low
 
-Unfortunately, I started having those internal visions (not hallucinations) of me throwing myself off a bridge into the Vistula river. I would also experience heightened anxiety in public places, unusually low apetite, difficulties falling asleep, as well as a general sense of being a waste of space. I stopped tinkering with my homelab, I left pretty much every Discord I was active in, I deleted some social media accounts... I was gradually withdrawing from life.
+Unfortunately, I started having those internal visions (not hallucinations) of me throwing myself off a bridge into the Vistula river. I would also experience heightened anxiety in public places, unusually low appetite, difficulties falling asleep, as well as a general sense of being a waste of space. I stopped tinkering with my homelab, I left pretty much every Discord I was active in, I deleted some social media accounts... I was gradually withdrawing from life.
 
 At that point I hadn't made any concrete arrangements or resorted to self-harm. I'm quite anxious when handling needles or sharp blades, and while we're not talking outright fear of these objects, I'm definitely afraid of accidentally cutting myself, let alone doing that deliberately.
 
@@ -110,7 +110,7 @@ Anyhow, this was no longer burnout. This was depression.
 
 #### The second best time is now
 
-In May, I foolishly declined getting prescription meds, still trying to believe it was all just a temporary low. But this time around I had no choice, but to start taking antidepressants. I also got some antianxiety pills, sleeping pills, and vitamin suppliments. Of course, they wouldn't start working overnight, and I was still feeling directionless with regards to my future.
+In May, I foolishly declined getting prescription meds, still trying to believe it was all just a temporary low. But this time around I had no choice, but to start taking antidepressants. I also got some antianxiety pills, sleeping pills, and vitamin supplements. Of course, they wouldn't start working overnight, and I was still feeling directionless with regards to my future.
 
 It was a step forward, though.
 
@@ -163,7 +163,7 @@ The strangest thing about these arrangements, is that there was no single major 
 The 17th of July 2025 marked the 10th anniversary of [Jules Bianchi](https://en.wikipedia.org/wiki/Jules_Bianchi)'s death, as well as the 30th anniversary of [Juan Manuel Fangio](https://en.wikipedia.org/wiki/Juan_Manuel_Fangio)'s death. If that's not unfortunate enough, this date comes [13](https://en.wikipedia.org/wiki/13_(number)#Bad) days after the 4th of July.
 {% end %}
 
-Anyway, I set the date to the 1st of October 2025. Before heading out to the Warsaw Central train station, I wanted to send personalised goodbye videos to 10 of my closest friends from various circles between 7 AM and 10 AM depending on when I'd wake up. These videos would feature me explaining why they earned the questionble honour and why I was peacing out for good, and obviously thanking them for everything.
+Anyway, I set the date to the 1st of October 2025. Before heading out to the Warsaw Central train station, I wanted to send personalised goodbye videos to 10 of my closest friends from various circles between 7 AM and 10 AM depending on when I'd wake up. These videos would feature me explaining why they earned the questionable honour and why I was peacing out for good, and obviously thanking them for everything.
 
 What would follow is a walk from my flat to platform no. 3 or 4 of the train station. From there on, it would be a matter of waiting for the first train that would just so happen to be passing by, before I'd dash to the tracks and jump. Thankfully, this is as fleshed-out as these plans ever got.
 
@@ -195,7 +195,7 @@ My request to switch modes got accepted by the dean, so I'm really looking forwa
 
 ## Q4 2025 and beyond - expressing myself more
 
-I hope to allocate more time towards working on my personal projects and this blog. The former will see a mix of me experimenting more with Python and the dataviz side of things, as well as revisiting some of my already released apps that I believe deserve more love.
+I hope to allocate more time towards working on my personal projects and this blog. The former will see a mix of me experimenting more with Python and the datavis side of things, as well as revisiting some of my already released apps that I believe deserve more love.
 
 The latter will see an introduction of a monthly series that's going to run at least until January 2026: mood report with both a statistical and IRL summary of the last 4 weeks. I'll also include a technical writeup on the mood spreadsheet itself, because it got me to write some rather interesting formulas as a fun little challenge.
 
