@@ -43,7 +43,7 @@ I think I've already answered the first two questions, so I'll focus on the last
 
 Using an LLM to build a project or solve a programming problem for me feels dishonest. It takes away all the fun from doing these two things, which is completely missing the point.
 
-And like I said earlier, having to proofread the reply to my prompt, editing the prompt to provide feedback, and so on until I eventually landing at a decent enough solution... that seems quite counterproductive to me.
+And like I said earlier, having to proofread the reply to my prompt, editing the prompt to provide feedback, and so on until eventually landing at a decent enough solution... that seems quite counterproductive to me.
 
 ## Does it change the way you view yourself as a developer?
 
