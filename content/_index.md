@@ -8,4 +8,4 @@ max_posts = 5
 header = { title = "Welcome to my website!", img = "images/mac.png", img_alt = "Mac" }
 +++
 
-My Polish friends call me Maciek, and international friends call me Mac. I currently live in Warsaw, where I also study Computer Science at [PJAIT](https://pja.edu.pl/en/). After hours, I'm a huge F1 nerd, an avid homelabber, as well as house music aficionado.
+My Polish friends call me Maciek, and international friends call me Mac. I'm a huge F1 nerd, homelabbing enthusiast, as well as house music aficionado. This is where I document the inner-workings of my passion projects.
